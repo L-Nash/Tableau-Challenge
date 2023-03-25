@@ -1,0 +1,30 @@
+
+#Tableau Challenge Analysis
+
+The data for the challenge came directly from Citibike, and focuses on just over a month of data (approx. February 2023)
+
+
+## Poplular Times for Rides:
+This dashboard hones in on several when rides are more frequent. We start globally with time of month and narrowing to day of the week and time of day.
+
+There was one dip and also a peak during the month.  On February 4th, rides plummed to just 25,740 rides. After reviewing weather datat it was found that there was a sharp decline in the temperature during that time. More than likely riders' were less willing to brave the cold temperatures. We see the opposite of this during the month's peak on Feburary 15th when the weather was at least 16 degrees warmer than the week before and more riders hit the streets. 
+
+The weekdays are most popular for riders overall. Although there was a distinct difference between the habits of members and causal riders as casual riders participation did not decline on the weekend. In fact, there was a slight increase. 
+
+Lastly, The time of day was taken into consideration. The most popular hours, the 8th(8am), and the 16th-18th hours (4pm-6pm) are in line with typical commuting hours. 
+
+## Station Data
+On this dashboard, we highlight the most popular stations. The station on W 21 & 6 Ave is most popular with 8,128 during Feburary. Clicking on each station filters the other charts so that only data for that particular station is displayed. 
+
+It was interesting to note that a few of the most popular stations are relatively close to each other (W 31st & 7 Ave, 6 Ave & W 33 St, 8 Ave & W 33 St). All three are in the vicinity of Penn Square and together the rides per the time period exceed the top station. This suggests that it could be useful to focus on these three stations when starting new Citibike campaigns since so may riders pass through. 
+ 
+## Maps
+
+The maps reveal that Citibike is most popular in Manhattan and although there are riders in the bouroughs the numbers are much lower. Another item to note is that most rides start and end in  higher income areas. And while, that's good, we have an opportunity to come up with strategies to increase ridership in other areas. 
+
+Additionally, the popular stations seem to shfit depending on the day of the week. Just like we discovered when evaulating the time data, weekends and weekdays produce different results. When considering the time data and patterns of riders. It seems that most of the weekday riders are locals and perhaps the weekend riders are tourist. This seems to explain the shift in popularity. 
+
+
+## Conclusion
+
+Overall, the data reveals some interesting information about Citibike riders and persents some opportunity to customize our service to riders more. For example, we could consider a limited monthly membership at a lower for riders in lower income areas. Or, offer a multi-day pass for tourists.
